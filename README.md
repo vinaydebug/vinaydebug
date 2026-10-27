@@ -46,8 +46,7 @@ Currently, I am open to **Remote** and **International Relocation** opportunitie
 ### CRM / ESP Platforms
 - Salesforce Marketing Cloud
 - Braze
-- Adobe Campaign
-- Adobe Marketo Engage
+- Adobe Campaign Standard
 - HubSpot
 - Klaviyo
 - Pardot
